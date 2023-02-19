@@ -1,0 +1,9 @@
+.homePage {}
+
+.row {
+  @apply flex flex-col items-center mt-10;
+}
+
+.paper {
+  @apply max-w-sm w-full p-5;
+}
